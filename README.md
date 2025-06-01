@@ -6,23 +6,14 @@ A simple Java-based project demonstrating basic CRUD (Create, Read, Update, Dele
 
 ## Project Screenshots
 
-### APP JAVA  
-![APP JAVA](APP JAVA.png)
+### App Java  
+![App Java](App_java.png)
 
-### Home Page  
-![Home Page](HOME_PAGE.png)
+### Database Empty  
+![Database Empty](Database_emptyng.png)
 
-### Owner Module  
-![Owner Module](Owner_module.png)
+### Displayed Details  
+![Displayed Details](Displayed_details.png)
 
-### Proxy Module  
-![Proxy Module](Proxy_module.png)
-
-### TA Module  
-![TA Module](TA_mosule.png)
-
-### Upload First  
-![Upload First](Upload_first.png)
-
-### Uploaded Data  
-![Uploaded Data](Uploaded_Data.png)
+### Executed Hibernate Code  
+![Executed Hibernate Code](Executed_hibernate_code.png)
